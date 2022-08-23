@@ -1,0 +1,16 @@
+1. declaring all variables before their first use. 
+2. The Math.abs() function returns the absolute value of a number.
+   That is, it returns x if x is positive or zero, and the negation of x if x is negative.
+
+3. Decision Constructs
+Decision constructs allow our programs to make decisions on what programming
+statements to execute based on a Boolean expression : if statement and the switch statement
+
+4. Repetition Constructs
+
+When we want to execute a set of statements while a condition is true, we use a while
+loop.
+
+5. All function parameters in JavaScript are passed by value, and there are no reference
+parameters. However, there are reference objects, such as arrays, which are passed to
+functions by reference
